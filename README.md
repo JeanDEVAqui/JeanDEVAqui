@@ -4,7 +4,7 @@
 --> Me chamo Jean Gabriel, tenho 27 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática focado em desenvolvimento de sistemas. Atualmente, estou cursando Engenharia de Compitação na UNIVESP.
 Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de software.
 
-<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<a href="https://github.com/JeanDEVAqui?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
