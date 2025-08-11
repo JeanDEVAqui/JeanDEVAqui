@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
             src="https://custom-icon-badges.demolab.com/github/stars/JeanDEVAqui?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/JeanDEVAqui?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
