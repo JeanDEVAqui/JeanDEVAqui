@@ -139,11 +139,18 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 </p>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
-# 💼 Currículo Interativo - Jean Gabriel Pereira Targino de Araújo
+### 💼 Currículo Interativo - Jean Gabriel Pereira Targino de Araújo
 
 📍 **Guaratinguetá – São Paulo, Brasil**  
 📞 **WhatsApp:** (012) 98262-1794  
