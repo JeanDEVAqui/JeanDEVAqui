@@ -152,9 +152,7 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 ### 💼 Currículo Interativo - Jean Gabriel Pereira Targino de Araújo
 
-📍 **Guaratinguetá – São Paulo, Brasil**  
-📞 **WhatsApp:** (012) 98262-1794  
-📧 **E-mail:** [jeangpta@outlook.com](mailto:jeangpta@outlook.com)  
+📍 ** Brasil**    
 💻 **GitHub:** [JeanDEVAqui](https://github.com/JeanDEVAqui)  
 
 ---
