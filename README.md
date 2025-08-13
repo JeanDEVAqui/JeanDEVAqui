@@ -140,6 +140,8 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 </p>
 
 
+<br/>
+<br/>
 
 # 💼 Currículo Interativo - Jean Gabriel Pereira Targino de Araújo
 
