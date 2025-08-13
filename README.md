@@ -208,10 +208,7 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 ---
 
-## 📌 Objetivo
-Atuar como Desenvolvedor Full Stack, integrando tecnologia e boas práticas de segurança da informação, com foco em soluções escaláveis e eficientes.
 
----
 
 > *Este currículo foi desenvolvido como repositório interativo no GitHub para facilitar o acesso e compartilhamento.*
 
