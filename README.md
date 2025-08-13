@@ -138,3 +138,72 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
   />
 
 </p>
+
+
+
+# 💼 Currículo Interativo - Jean Gabriel Pereira Targino de Araújo
+
+📍 **Guaratinguetá – São Paulo, Brasil**  
+📞 **WhatsApp:** (012) 98262-1794  
+📧 **E-mail:** [jeangpta@outlook.com](mailto:jeangpta@outlook.com)  
+💻 **GitHub:** [JeanDEVAqui](https://github.com/JeanDEVAqui)  
+
+---
+
+## 🎓 Formação Acadêmica
+- **Engenharia da Computação** – UNIVESP (2025 – 2030)
+- **Técnico em Informática (Programação)** – ETEC Prof. Alfredo de Barros Santos (2017)
+- **Ensino Médio** – ETEC Prof. Alfredo de Barros Santos (2017)
+- **Assistente Administrativo** – Extensivo UP Cursos (2020)
+- **Direito** – UNISAL (2022)
+
+---
+
+## 💼 Experiência Profissional
+
+**💻 Técnico de Informática e Desenvolvedor Assistente**  
+*(2018 – 2020 e 2024 – atualmente)*  
+- Instalação, montagem e manutenção de computadores  
+- Desenvolvimento de sistemas web (Front-end e Back-end)  
+- HTML, CSS, programação com código limpo e banco de dados
+
+**⚖ Assistente Jurídico – Escritório Cruz e Guerra**  
+*(2022 – atualmente)*  
+- Revisão de documentos  
+- Consultoria de LGPD  
+- Elaboração de contratos de trabalho
+
+**📜 Estágio em Direito – Vara do Trabalho Guaratinguetá**  
+*(2020 – 2022)*  
+- Atendimento presencial e online  
+- Protocolo de documentos no PJE  
+- Organização de processos físicos e digitais
+
+**🛍 Vendedor/Atendente Temporário – Show das Malhas**  
+*(2025)*  
+- Atendimento e vendas  
+- Organização de estoque e mercadorias  
+
+---
+
+## 🛠 Habilidades Técnicas
+- **Linguagens:** HTML, CSS, C#, Java, Python, JavaScript, React, Angular, .NET, PHP  
+- **Banco de Dados:** PostgreSQL, MongoDB, Firebird  
+- **Versionamento:** Git, GitHub  
+- **Sistemas Operacionais:** Linux, Windows Server  
+- **Cloud:** Noções de AWS  
+- **Segurança da Informação:** Criptografia, segurança em redes, LGPD  
+- **UX/UI Design**  
+- **Metodologias Ágeis:** Scrum, Kanban  
+- **Idiomas:** Inglês e Espanhol
+
+---
+
+## 📌 Objetivo
+Atuar como Desenvolvedor Full Stack, integrando tecnologia e boas práticas de segurança da informação, com foco em soluções escaláveis e eficientes.
+
+---
+
+> *Este currículo foi desenvolvido como repositório interativo no GitHub para facilitar o acesso e compartilhamento.*
+
+
