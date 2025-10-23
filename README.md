@@ -173,7 +173,7 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 - Instalação, montagem e manutenção de computadores  
 
 **💻Desenvolvedor Assistente**  
-*(2018 – 2020 e 2024 – atualmente)*  
+*(2024 – atualmente)*  
 - Desenvolvimento de sistemas web (Front-end e Back-end)  
 - HTML, CSS, Javascript,React, php, python e banco de dados
 
