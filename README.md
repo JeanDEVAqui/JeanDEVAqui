@@ -168,11 +168,14 @@ Sou apaixonada por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 ## 💼 Experiência Profissional
 
-**💻 Técnico de Informática e Desenvolvedor Assistente**  
-*(2018 – 2020 e 2024 – atualmente)*  
+**💻 Técnico de Informática**  
+*(2018 – atualmente)*  
 - Instalação, montagem e manutenção de computadores  
+
+  **Desenvolvedor Assistente**  
+*(2018 – 2020 e 2024 – atualmente)*  
 - Desenvolvimento de sistemas web (Front-end e Back-end)  
-- HTML, CSS, programação com código limpo e banco de dados
+- HTML, CSS, Javascript,React, php, python e banco de dados
 
 **⚖ Assistente Jurídico – Escritório Cruz e Guerra**  
 *(2022 – atualmente)*  
