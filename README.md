@@ -40,22 +40,6 @@ Sou apaixonado por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JeanDEVAqui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeanDEVAqui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
 </div>
 
 ---
