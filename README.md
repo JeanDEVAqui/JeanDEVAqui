@@ -55,14 +55,15 @@ Sou apaixonado por tecnologia e estou em busca de me tornar engenheiro de softwa
 - **Engenharia da Computação** – UNIVESP (2025 – 2030)  
 - **Técnico em Informática (Programação)** – ETEC Prof. Alfredo de Barros Santos (2017)  
 - **Ensino Médio** – ETEC Prof. Alfredo de Barros Santos (2017)  
-- **Assistente Administrativo** – Extensivo UP Cursos (2020)  
+- **Pós-Graduação - DESENVOLVIMENTO DE JOGOS DIGITAIS** – FEBMG (2026)
+- **Pós-Graduação - ARQUITETURA DE SOFWARE ** – FEBMG (2026)  
 - **Direito** – UNISAL (2022)  
 
 ---
 
 ## 💼 Experiência Profissional
 
-**💻 Técnico de Informática** (2018 – atualmente)  
+**💻 Técnico de Informática** (2018 – 2020)  
 - Instalação, montagem e manutenção de computadores  
 
 **💻 Desenvolvedor Assistente** (2024 – atualmente)  
@@ -79,9 +80,6 @@ Sou apaixonado por tecnologia e estou em busca de me tornar engenheiro de softwa
 - Protocolo no PJE  
 - Organização de processos físicos e digitais  
 
-**🛍 Vendedor/Atendente Temporário – Show das Malhas** (2025)  
-- Atendimento e vendas  
-- Organização de estoque  
 
 ---
 
@@ -98,4 +96,3 @@ Sou apaixonado por tecnologia e estou em busca de me tornar engenheiro de softwa
 
 ---
 
-> *Este currículo foi desenvolvido como repositório interativo no GitHub para facilitar o acesso e compartilhamento.*
